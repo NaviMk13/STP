@@ -1,5 +1,6 @@
 streamlit
 streamlit-drawable-canvas
-tensorflow<2.16
+tensorflow-cpu==2.15.0
+keras==2.15.0
 Pillow
 numpy<2.0.0
