@@ -1,0 +1,3 @@
+0 Papier
+1 Schere
+2 Stein
